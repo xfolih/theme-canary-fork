@@ -1,0 +1,27 @@
+[1.0.1 - 24.05.2025]
+	* Rename server-info to ots-info
+	* Fix menu links
+	* Remove font-awesome (wasn't used)
+
+[1.0 - 24.05.2025]
+	* First official release
+	* Fixed house link
+	* Fixed signature link
+
+[1.0-beta.2 - 14.05.2025]
+	* fix event-schedule warnings
+	* Use accounts.premium_points, if coins not present
+	* Use template_path where possible
+	* Fix headline format - png
+	* Remove useless quotation marks in highscores
+	* use hook FILTER_ROUTES for characters route
+
+[1.0-beta - 13.05.2025]
+	* fix lost account link in account.login.html.twig
+
+[1.0-alpha.2 - 19.04.2025]
+	* move highscores to twig
+	* fix characters page (health bar, achievements, etc.)
+
+[1.0-alpha - 06.04.2025]
+	* initial release
